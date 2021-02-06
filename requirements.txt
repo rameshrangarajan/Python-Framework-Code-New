@@ -1,0 +1,6 @@
+py
+pytest==3.10.1
+selenium
+pytest-html==1.19.0
+pytest-bdd==3.0.1
+requests
